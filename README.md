@@ -1,1 +1,1 @@
-# Voice-AI-Marathi-Speech-to-Text-Model
+# Voice-AI-Speech-to-Text-Model
