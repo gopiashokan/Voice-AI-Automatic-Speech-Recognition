@@ -1,0 +1,13 @@
+--upgrade pip
+--upgrade git+https://github.com/huggingface/transformers.git
+accelerate
+datasets
+transformers
+soundfile
+librosa
+evaluate
+tensorboard
+torch
+python-Levenshtein
+jiwer
+pandas
