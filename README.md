@@ -86,8 +86,6 @@ To optimize the performance of the models, fine-tuning strategies are applied. T
 
 - For model training, we leverage the powerful Seq2SeqTrainingArguments and Seq2SeqTrainer from the Hugging Face Transformers library. These components provide a robust framework for training our Marathi Speech Recognition models.
 
-![image](https://github.com/gopiashokan/Voice-AI-Speech-to-Text-Model/blob/main/Images/Evaluation%20Metrics.JPG)
-
 
 ## Model Evaluation
 
