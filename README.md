@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Welcome to the Voice AI project, where our focus is on implementing a Speech-to-Text system for the Marathi language using the cutting-edge Hugging Face Whisper ASR models. This project is designed to deliver a robust Marathi speech-to-text transcription model with the ultimate goal of accurately transcribing spoken Marathi content.
+Developed a Marathi speech-to-text application using the Hugging Face whisper ASR models. Trained the model with a custom audio dataset and fine-tuned it for optimized performance. Deployed the model on the Hugging Face Model Hub, achieving a WER of 0.74 for the base model.
 
 
 ## Table of Contents
